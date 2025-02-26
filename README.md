@@ -10,3 +10,5 @@ O valor de cada peça também irá compor a OSO cliente autoriza a execução do
 A mesma equipe avalia e executa os serviços
 Os mecânicos possuem código, nome, endereço e especialidade
 Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
+
+![Image](https://github.com/user-attachments/assets/4ef53f30-b2c2-430f-9183-405838e269e0)
